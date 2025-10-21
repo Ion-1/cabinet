@@ -1,0 +1,6 @@
+- [ ] Add + fix logging and tracing
+- [ ] Add a landing page
+- [ ] Add (optional feature-gated) Web UI
+- [ ] Use a proper database
+- [ ] Add documentation
+- [ ] Add testing

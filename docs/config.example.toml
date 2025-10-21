@@ -1,0 +1,6 @@
+storage_path = 'path/to/storage'
+bind_http = '0.0.0.0:80'
+bind_https = '0.0.0.0:443'
+max_file_age = "P1m"
+min_file_age = "P3d"
+fqdn = "localtest.me"
